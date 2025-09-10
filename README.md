@@ -25,7 +25,7 @@ A modern full-stack web application to track your expenses, investments, and sav
 
 #### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sudarshan-k1604/Trackme.git
 cd exp_traker
 ```
 
