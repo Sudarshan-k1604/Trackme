@@ -64,9 +64,3 @@ npm start
 4. **Charts:** See your spending/investment ratios in interactive charts.
 5. **AI Analysis:** Get actionable insights and a weekly plan tailored to your habits.
 6. **Manage:** Delete or update entries as needed.
-
-## License
-MIT
-
----
-*Built with ❤️ by your team.*
